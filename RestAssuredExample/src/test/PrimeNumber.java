@@ -20,6 +20,8 @@ public class PrimeNumber {
 	       }	
 	       System.out.println("Prime numbers from 1 to 100 are :");
 	       System.out.println(primeNumbers);
+	       System.out.println(primeNumbers +" hello"); 
+	       System.out.println(primeNumbers);
 	       System.out.println(primeNumbers +" hello");
 	   }
 	}
