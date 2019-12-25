@@ -21,5 +21,6 @@ public class PrimeNumber {
 	       System.out.println("Prime numbers from 1 to 100 are :");
 	       System.out.println(primeNumbers);
 	       System.out.println("Got this data from Puja branch");    
+   
 	   }
 	}
